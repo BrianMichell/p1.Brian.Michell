@@ -24,3 +24,11 @@ The common sequence of actions a user would take are:
 + Wait for carriage to arrive at selected floor
     + a. Wait for other stops
 + Exit
+
+This interface makes the use of simple pictograms and Arabic numerals, the standard representation of numbers in the United States, to mark which button goes where or does what. 
+
+The elevator will illuminate a red ring around the button that was pressed, indicating that it received the instructions. There is also the tactile response of the button being depressed for those with visual impairments.
+
+A common mistake could be the user confusing the door open and close buttons, especially if looking away from the control panel and towards the person they are holding the elevator for.
+
+The design change I am going to suggest is to move the door controls to the left side of the panel because that is the side where the door is on this elevator. I will also be suggesting a vertical alignment so the user does not have to look as far to be able to select the correct button. I will also be relocating the help button to be vertically aligned with the ground floor button as it would be visually messy otherwise.
