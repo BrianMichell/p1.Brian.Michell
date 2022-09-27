@@ -1,4 +1,4 @@
-## Hello World
+## Project 1 submission
 ![Static image](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_png.png?raw=true)
 ![Gif interaction](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_interaction_gif.gif?raw=true)
 
