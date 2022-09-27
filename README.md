@@ -32,3 +32,7 @@ The elevator will illuminate a red ring around the button that was pressed, indi
 A common mistake could be the user confusing the door open and close buttons, especially if looking away from the control panel and towards the person they are holding the elevator for.
 
 The design change I am going to suggest is to move the door controls to the left side of the panel because that is the side where the door is on this elevator. I will also be suggesting a vertical alignment so the user does not have to look as far to be able to select the correct button. I will also be relocating the help button to be vertically aligned with the ground floor button as it would be visually messy otherwise.
+
+![Select and close](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_selection_and_close.gif?raw=true)
+![Arrive at floor](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_reach_floor.gif?raw=true)
+![Call help and recover](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_call_help_and_recover.gif?raw=true)
