@@ -1,6 +1,6 @@
 ## Hello World
-![](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_png.png)
-![](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_interaction_gif.gif)
+![](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_png.png?raw=true)
+![](https://github.com/BrianMichell/p1.Brian.Michell/blob/master/Interface_interaction_gif.gif?raw=true)
 
 What is good about this elevator control panel is that the primary buttons are mostly aligned and the labeling is clear, fairly large, and fairly easy to correlate to the associated button. The panel location is also at a good height for most people, low enough for somebody in a wheelchair to easily reach but not so low that a tall user would have to bend over to operate it.
 
