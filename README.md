@@ -18,7 +18,7 @@ The common sequence of actions a user would take are:
 + Enter the carriage
 + Select a floor
 + Check if somebody was coming
-    + aHold the door if space and person coming
+    + a. Hold the door if space and person coming
     + b. Close the door if no space or nobody coming
     + c. Wait for doors to close
 + Wait for carriage to arrive at selected floor
