@@ -15,12 +15,12 @@ Actions taken in an elevator:
 This interface does an average job at making those actions possible.
 
 The common sequence of actions a user would take are:
-+ 1. Enter the carriage
-+ 2. Select a floor
-+ 3. Check if somebody was coming
-+ 3a. Hold the door if space and person coming
-+ 3b. Close the door if no space or nobody coming
-+ 3c. Wait for doors to close
-+ 4. Wait for carriage to arrive at selected floor
-+ 4a. Wait for other stops
-+ 5. Exit
++ Enter the carriage
++ Select a floor
++ Check if somebody was coming
+    + aHold the door if space and person coming
+    + b. Close the door if no space or nobody coming
+    + c. Wait for doors to close
++ Wait for carriage to arrive at selected floor
+    + a. Wait for other stops
++ Exit
